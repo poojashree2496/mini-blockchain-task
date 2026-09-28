@@ -51,3 +51,4 @@ my_chain = Blockchain()
 my_chain.add_block("Transaction 1: Alice pays Bob")
 my_chain.add_block("Transaction 2: Bob pays Charlie")
 my_chain.display_chain()
+.
